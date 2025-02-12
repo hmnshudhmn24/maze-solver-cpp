@@ -30,6 +30,3 @@ maze_solver/
 
 ## Requirements
 - C++ compiler (GCC, Clang, MSVC)
-
-## Author
-Himanshu Dhiman
